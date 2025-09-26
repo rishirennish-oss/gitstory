@@ -4,4 +4,4 @@ that strucked hard in my mind
 adding to it i am using git hub 
 todays lecture is going well
 git checkout branch name & git checkout -b branch name 
-but i got lost 
+but i got lost  
