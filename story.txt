@@ -1,5 +1,4 @@
 Once upon a time in wonderland,
 there was sea beyond imagination
 that strucked hard in my mind
-adding to it i am doing github 
-todays lecture was good 
+adding to it i am using git hub 
