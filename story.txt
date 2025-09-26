@@ -6,3 +6,4 @@ todays lecture is going well
 git checkout branch name & git checkout -b branch name 
 but i got lost  
 but then i got back 
+story ends 
